@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Kashyap</h1>
+<h1 align="center">Hi !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aditya Kashyap</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aditya99k&label=Profile%20views&color=0e75b6&style=flat" alt="Aditya99k" /> </p>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
