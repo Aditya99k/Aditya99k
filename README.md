@@ -23,5 +23,5 @@
 <a href="mailto:kashyapaditya1234@gmail.com" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Aditya99k" height="30" width="40"></a> 
 <a href="https://www.hackerrank.com/KashyapAdi?hr_r=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="Aditya99k" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@aditya4847" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerearth.svg" alt="Aditya99k" height="30" width="40" /></a>
-<a href="https://www.instagram.com/aditya_kashyap1311/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" alt="Aditya99k" height="30" width="40" /></a
+<a href="https://www.instagram.com/aditya_kashyap1311/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" alt="Aditya99k" height="30" width="40" /></a>
 </p>
